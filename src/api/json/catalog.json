@@ -2707,6 +2707,31 @@
       "url": "https://json.schemastore.org/openfin.json"
     },
     {
+      "name": "OpenFMB Adapter configuration",
+      "description": "OpenFMB root configuration for OES OpenFMB Adapter",
+      "url": "https://json.schemastore.org/openfmb-config-2.1.json"
+    },
+    {
+      "name": "OpenFMB Adapter configuration for DNP3 master",
+      "description": "DNP3 master configuration for OES OpenFMB Adapter",
+      "url": "https://json.schemastore.org/openfmb-dnp3-master-2.1.json"
+    },
+    {
+      "name": "OpenFMB Adapter configuration for DNP3 outstation",
+      "description": "DNP3 outstation configuration for OES OpenFMB Adapter",
+      "url": "https://json.schemastore.org/openfmb-dnp3-outstation-2.1.json"
+    },
+    {
+      "name": "OpenFMB Adapter configuration for MODBUS master",
+      "description": "MODBUS master configuration for OES OpenFMB Adapter",
+      "url": "https://json.schemastore.org/openfmb-modbus-master-2.1.json"
+    },
+    {
+      "name": "OpenFMB Adapter configuration for MODBUS outstation",
+      "description": "MODBUS outstation configuration for OES OpenFMB Adapter",
+      "url": "https://json.schemastore.org/openfmb-modbus-outstation-2.1.json"
+    },
+    {
       "name": "OpenRewrite Resource",
       "description": "JSON schema for OpenRewrite resource descriptors",
       "fileMatch": ["**/META-INF/rewrite/*.yml"],
